@@ -130,7 +130,7 @@ Mainly Contributed and Maintained by Geyuan Wang.
 
 1. **Context-aware variational trajectory encoding and human mobility inference**. *Zhou, Fan, Xiaoli Yue, Goce Trajcevski, Ting Zhong, and Kunpeng Zhang*. WWW 2019. [[pdf](https://dl.acm.org/doi/abs/10.1145/3308558.3313608)]
 
-
+1. **Predicting the next location: A recurrent model with spatial and temporal contexts**. *Liu, Qiang, Shu Wu, Liang Wang, and Tieniu Tan*. AAAI 2016. [[pdf](http://ir.ia.ac.cn/bitstream/173211/12329/1/Predicting%20the%20Next%20Location_%20A%20Recurrent%20Model%20with%20Spatial%20and%20Temporal%20Contexts.pdf)]
 
 ## 7. Transfer Learning and Meta Learning
 
