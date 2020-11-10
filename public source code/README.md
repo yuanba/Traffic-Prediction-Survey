@@ -2,7 +2,7 @@
 
 The following table is the current open source traffic prediction model code implementation summary.
 
-|            Task             | Model and Reference |                   Source Code Link                   |
+|            Task             |        Model        |                   Source Code Link                   |
 | :-------------------------: | :-----------------: | :--------------------------------------------------: |
 |   Traffic flow prediction   |     ST-MetaNet      |        https://github.com/panzheyi/ST-MetaNet        |
 |                             |        CRANN        |     https://github.com/rdemedrano/crann_traffic      |
