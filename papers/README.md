@@ -89,7 +89,48 @@ Mainly Contributed and Maintained by Geyuan Wang.
 
 ## 5. Traffic Accident Prediction
 
+1. **Learning deep representation from big and heterogeneous data for traffic accident inference**. *Chen, Quanjun, Xuan Song, Harutoshi Yamada, and Ryosuke Shibasaki*. AAAI 2016. [[pdf](http://www.shichuan.org/hin/topic/Embedding/2016.%20AAAI%20Learning%20Deep%20Representation%20from%20Big%20and%20Heterogeneous%20Data%20for%20Traffic%20Accident%20Inference.pdf)]
+
+1. **Predicting traffic accidents through heterogeneous urban data: A case study**. *Yuan, Zhuoning, Xun Zhou, Tianbao Yang, James Tamerius, and Ricardo Mantilla*. UrbComp 2017. [[pdf](http://urbcomp.ist.psu.edu/2017/papers/Predicting.pdf)]
+
+1. **A deep learning approach to the prediction of short-term traffic accident risk**. *Ren, Honglei, You Song, JingXin Liu, Yucheng Hu, and Jinzhi Lei*. arXiv 2017. [[pdf](https://www.researchgate.net/profile/Ren_Honglei/publication/320627131_A_Deep_Learning_Approach_to_the_Prediction_of_Short-term_Traffic_Accident_Risk/links/59f2b658a6fdcc1dc7bb1f44/A-Deep-Learning-Approach-to-the-Prediction-of-Short-term-Traffic-Accident-Risk.pdf)]
+
+1. **Hetero-convlstm: A deep learning approach to traffic accident prediction on heterogeneous spatio-temporal data**. *Z Yuan, X Zhou, T Yang*. CBD 2018. [[pdf](https://dl.acm.org/doi/abs/10.1145/3219819.3219922)]
+
+1. **Sdcae: Stack denoising convolutional autoencoder model for accident risk prediction via traffic big data**. *Chen, Chao, Xiaoliang Fan, Chuanpan Zheng, Lujing Xiao, Ming Cheng, and Cheng Wang*. KDD 2018. [[pdf](https://ieeexplore.ieee.org/abstract/document/8530861/)]
+
+1. **A spatiotemporal deep learning approach for citywide short-term crash risk prediction with multi-source data**. *Bao, Jie, Pan Liu, and Satish V. Ukkusuri*. Accident Analysis & Prevention 2019. [[pdf](https://www.sciencedirect.com/science/article/pii/S0001457518303877)]
+
+1. **RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework**. *Zhou, Zhengyang, Yang Wang, Xike Xie, Lianliang Chen, and Hengchang Liu*. AAAI 2020. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/view/5480)]
+
+1. **Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction**. *Huang, Chao, Chuxu Zhang, Peng Dai, and Liefeng Bo*. IJCAI 2020. [[pdf](https://www.ijcai.org/Proceedings/2020/0601.pdf)]
+
+
+
+
+
+
+
+
 ## 6. Traffic Location Prediction
+
+1. **Deeptransport: Prediction and simulation of human mobility and transportation mode at a citywide level**. *Song, Xuan, Hiroshi Kanasugi, and Ryosuke Shibasaki*. IJCAI 2016. [[pdf](https://dl.acm.org/doi/abs/10.5555/3060832.3060987)]
+
+1. **Serm: A recurrent model for next location prediction in semantic trajectories**. *Yao, Di, Chao Zhang, Jianhui Huang, and Jingping Bi*. CIKM 2017. [[pdf](https://dl.acm.org/doi/abs/10.1145/3132847.3133056)]
+
+1. **HST-LSTM: A Hierarchical Spatial-Temporal Long-Short Term Memory Network for Location Prediction**. *Kong, Dejiang, and Fei Wu*. IJCAI 2018. [[pdf](https://pdfs.semanticscholar.org/a1bf/ad98d6192b3fad42054b07ff8a5acc2a97c9.pdf)]
+
+1. **Deepmove: Predicting human mobility with attentional recurrent networks**. *Feng, Jie, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, and Depeng Jin*. WWW 2018. [[pdf](https://dl.acm.org/doi/abs/10.1145/3178876.3186058)]
+
+1. **A hierarchical location prediction neural network for twitter user geolocation**. *Huang, Binxuan, and Kathleen M. Carley*. arXiv 2019. [[pdf](https://arxiv.org/abs/1910.12941)]
+
+1. **STAR: A concise deep learning framework for citywide human mobility prediction**. *Wang, Hongnian, and Han Su*. MDM 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8788822/)]
+
+1. **Predicting human mobility via variational attention**. *Gao, Qiang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Fengli Zhang*. WWW 2019. [[pdf](https://dl.acm.org/doi/abs/10.1145/3308558.3313610)]
+
+1. **Context-aware variational trajectory encoding and human mobility inference**. *Zhou, Fan, Xiaoli Yue, Goce Trajcevski, Ting Zhong, and Kunpeng Zhang*. WWW 2019. [[pdf](https://dl.acm.org/doi/abs/10.1145/3308558.3313608)]
+
+
 
 ## 7. Transfer Learning and Meta Learning
 
