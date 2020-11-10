@@ -15,8 +15,8 @@ Mainly Contributed and Maintained by Geyuan Wang.
 	- [4. Travel Time Prediciton](#4-travel-time-prediciton)
 	- [5. Traffic Accident Prediction](#5-traffic-accident-prediction)
 	- [6. Traffic Location Prediction](#6-traffic-location-prediction)
-	- [7. Transfer Learning and Meta Learning in ITS](#7-transfer-learning-and-meta-learning-in-its)
-	- [8. AutoML in ITS](#8-automl-in-its)
+	- [7. Transfer Learning and Meta Learning](#7-transfer-learning-and-meta-learning)
+	- [8. AutoML](#8-automl)
 	- [9. Others](#9-others)
 
 
@@ -78,9 +78,31 @@ Mainly Contributed and Maintained by Geyuan Wang.
 
 ## 6. Traffic Location Prediction
 
-## 7. Transfer Learning and Meta Learning in ITS
+## 7. Transfer Learning and Meta Learning
 
-## 8. AutoML in ITS
+1. **Transfer knowledge between cities**. *Wei, Ying and Zheng, Yu and Yang, Qiang*. KDD 2016. [[pdf](https://dl.acm.org/doi/abs/10.1145/2939672.2939830)]
+
+1. **Crowd flow prediction by deep spatio-temporal transfer learning**. *Wang, Leye and Geng, Xu and Ma, Xiaojuan and Liu, Feng and Yang, Qiang*. arXiv 2018. [[pdf](https://www.researchgate.net/profile/Leye_Wang/publication/322886199_Crowd_Flow_Prediction_by_Deep_Spatio-Temporal_Transfer_Learning/links/5aa9bd6b0f7e9b88266f6529/Crowd-Flow-Prediction-by-Deep-Spatio-Temporal-Transfer-Learning.pdf)]
+
+1. **Learning from multiple cities: A meta-learning approach for spatial-temporal prediction**. *Yao, Huaxiu and Liu, Yiding and Wei, Ying and Tang, Xianfeng and Li, Zhenhui*. WWW 2019. [[pdf](https://dl.acm.org/doi/abs/10.1145/3308558.3313577)]
+
+1. **Cross-City Transfer Learning for Deep Spatio-Temporal Prediction**. *Wang, Leye and Geng, Xu and Ma, Xiaojuan and Liu, Feng and Yang, Qiang*. IJCAI 2019. [[pdf](https://arxiv.org/abs/1802.00386)]
+
+1. **Deep Transfer Learning for Intelligent Cellular Traffic Prediction Based on Cross-Domain Big Data**. *Zhang, Chuanting and Zhang, Haixia and Qiao, Jingping and Yuan, Dongfeng and Zhang, Minggao*. IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8667446/)]
+
+1. **Urban traffic prediction from spatio-temporal data using deep meta learning**. *Pan, Zheyi and Liang, Yuxuan and Wang, Weifeng and Yu, Yong and Zheng, Yu and Zhang, Junbo*. KDD 2019. [[pdf](https://dl.acm.org/doi/abs/10.1145/3292500.3330884)]
+
+
+
+## 8. AutoML
+
+1. **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction**. *Li, Ting and Zhang, Junbo and Bao, Kainan and Liang, Yuxuan and Li, Yexin and Zheng, Yu*. KDD 2020. [[pdf](https://dl.acm.org/doi/abs/10.1145/3394486.3403122)]
+
+1. **An Automated Hyperparameter Search-Based Deep Learning Model for Highway Traffic Prediction**. *Yi, Hongsuk and Bui, Khac-Hoai Nam*. ITS 2020. [[pdf](https://ieeexplore.ieee.org/abstract/document/9078366/)]
+
+1. **An Automated Machine Learning (AutoML) Method of Risk Prediction for DecisionMaking of Autonomous Vehicles**. *Shi, Xiupeng and Wong, Yiik Diew and Chai, Chen and Li, Michael Zhi-Feng*. ITS 2020. [[pdf](https://ieeexplore.ieee.org/abstract/document/9130902/)]
+
+
 
 ## 9. Others
 
