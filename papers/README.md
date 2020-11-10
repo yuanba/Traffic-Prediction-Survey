@@ -73,6 +73,19 @@ Mainly Contributed and Maintained by Geyuan Wang.
 ## 3. On-Demand Service Prediction
 
 ## 4. Travel Time Prediciton
+1. **A unified neural network approach for estimating travel time and distance for a taxi trip**. *Jindal, Ishan and Chen, Xuewen and Nokleby, Matthew and Ye, Jieping and others*. arXiv 2017. [[pdf](https://arxiv.org/abs/1710.04350)]
+
+2. **When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks**. *Wang, Dong and Zhang, Junbo and Cao, Wei and Li, Jian and Zheng, Yu*. AAAI 2018. [[pdf](https://zhangjunbo.org/pdf/2018_AAAI_DeepTTE.pdf)]
+
+3. **Multi-task Representation Learning for Travel Time Estimation**. *Li, Yaguang and Fu, Kun and Wang, Zheng and Shahabi, Cyrus and Ye, Jieping and Liu, Yan*. KDD 2018. [[pdf](https://dl.acm.org/doi/abs/10.1145/3219819.3220033)]
+
+4. **Learning to estimate the travel time**. *Wang, Zheng and Fu, Kun and Ye, Jieping*. KDD 2018. [[pdf](https://dl.acm.org/doi/abs/10.1145/3219819.3219900)]
+
+5. **Deeptravel: a neural network based travel time estimation model with auxiliary supervision**. *Zhang, Hanyuan and Wu, Hao and Sun, Weiwei and Zheng, Baihua*. IJCAI 2018. [[pdf](https://arxiv.org/abs/1802.02147)]
+
+6. **Travel time estimation without road networks: an urban morphological layout representation approach**. *Lan, Wuwei and Xu, Yanyan and Zhao, Bin*. arXiv 2019. [[pdf](https://arxiv.org/abs/1907.03381)]
+
+
 
 ## 5. Traffic Accident Prediction
 
