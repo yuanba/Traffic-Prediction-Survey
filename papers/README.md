@@ -67,6 +67,92 @@ Mainly Contributed and Maintained by Geyuan Wang.
 
 
 ## 1. Traffic Flow Prediction
+1. **Deep Architecture for Traffic Flow Prediction: Deep Belief Networks With Multitask Learning**.
+*W. Huang, G. Song, H. Hong and K. Xie*. IEEE Transactions on Intelligent Transportation Systems 2014. [[pdf](https://ieeexplore.ieee.org/abstract/document/6786503)]
+1. **Traffic Flow Prediction With Big Data: A Deep Learning Approach**.
+*Y. Lv, Y. Duan, W. Kang, Z. Li and F. Wang*. IEEE Transactions on Intelligent Transportation Systems 2015. [[pdf](https://ieeexplore.ieee.org/abstract/document/6894591)]
+1. **Predicting Short-Term Traffic Flow by Long Short-Term Memory Recurrent Neural Network**.
+*Y. Tian and L. Pan*. IEEE International Conference on Smart City 2015. [[pdf](https://ieeexplore.ieee.org/abstract/document/7463717)]
+1. **Using LSTM and GRU neural network methods for traffic flow prediction**.
+*R. Fu, Z. Zhang and L. Li*. Youth Academic Annual Conference of Chinese Association of Automation (YAC) 2016. [[pdf](https://ieeexplore.ieee.org/abstract/document/7804912)]
+1. **Short-term traffic flow forecasting with spatial-temporal correlation in a hybrid deep learning framework**.
+*Wu, Yuankai, and Huachun Tan*. arXiv 2016. [[pdf](https://arxiv.org/abs/1612.01022)]
+1. **Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach**.
+*Yang, Hao-Fan, Tharam S. Dillon, and Yi-Ping Phoebe Chen*. IEEE Transactions on Neural Networks and Learning Systems 2016. [[pdf](https://ieeexplore.ieee.org/abstract/document/7517319)]
+1. **A Comparison of Traffic Flow Prediction Methods Based on DBN**.
+*Tan, H., Xuan, X., Wu, Y., Zhong, Z., and Ran, B*. CICTP 2016. [[pdf](https://ascelibrary.org/doi/abs/10.1061/9780784479896.026)]
+1. **DNN-based prediction model for spatio-temporal data**.
+*Junbo Zhang, Yu Zheng, Dekang Qi, Ruiyuan Li, and Xiuwen Yi*. SIGSPATIAL 2016. [[pdf](https://dl.acm.org/doi/abs/10.1145/2996913.2997016)]
+1. **Big-data-generated traffic flow prediction using deep learning and dempster-shafer theory**.
+*R. Soua, A. Koesdwiady and F. Karray*. IJCNN 2016. [[pdf](https://ieeexplore.ieee.org/abstract/document/7727607/)]
+1. **LSTM network: a deep learning approach for short-term traffic forecast**.
+*Z. Zhao, W. Chen, X. Wu, P. C. Y. Chen and J. Liu*. IET 2017. [[pdf](https://ieeexplore.ieee.org/document/7874313)]
+1. **Deep learning for short-term traffic flow prediction**.
+*Nicholas G. Polson, Vadim O. Sokolov*. Transportation Research Part C 2017. [[pdf](https://www.sciencedirect.com/science/article/pii/S0968090X17300633)]
+1. **City-wide Traffic Volume Inference with Loop Detector Data and Taxi Trajectories**.
+*Chuishi Meng, Xiuwen Yi, Lu Su, Jing Gao, and Yu Zheng*. SIGSPATIAL 2017. [[pdf](https://dl.acm.org/doi/abs/10.1145/3139958.3139984)]
+1. **Deep Neural Networks for traffic flow prediction**.
+*Hongsuk Yi, HeeJin Jung and Sanghoon Bae*. IEEE BigComp 2017. [[pdf](https://ieeexplore.ieee.org/abstract/document/7881687)]
+1. **Deep Learning: A Generic Approach for Extreme Condition Traffic Forecasting**.
+*Yu, R., Li, Y., Shahabi, C., Demiryurek, U., & Liu, Y*. SDM 2017. [[pdf](https://epubs.siam.org/doi/abs/10.1137/1.9781611974973.87)]
+1. **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction**.
+*Zhang, Junbo, Yu Zheng, and Dekang Qi*. AAAI 2017. [[pdf](https://arxiv.org/abs/1610.00081)]
+1. **Interactive Temporal Recurrent Convolution Network for Traffic Prediction in Data Centers**.
+*X. Cao, Y. Zhong, Y. Zhou, J. Wang, C. Zhu and W. Zhang*. IEEE Access 2017. [[pdf](https://ieeexplore.ieee.org/abstract/document/8240913)]
+1. **Short-term traffic flow prediction with Conv-LSTM**.
+*Y. Liu, H. Zheng, X. Feng and Z. Chen*. WCSP 2017. [[pdf](https://ieeexplore.ieee.org/abstract/document/8171119/)]
+1. **A Capsule Network for Traffic Speed Prediction in Complex Road Networks**.
+*Y. Kim, P. Wang, Y. Zhu and L. Mihaylova*. Sensor Data Fusion: Trends, Solutions, Applications 2018. [[pdf](https://ieeexplore.ieee.org/abstract/document/8547068)]
+1. **A hybrid deep learning based traffic flow prediction method and its understanding**.
+*Yuankai Wu, Huachun Tan, Lingqiao Qin, Bin Ran, Zhuxi Jiang*. Transportation Research Part C 2018. [[pdf](https://www.sciencedirect.com/science/article/pii/S0968090X18302651)]
+1. **A Hybrid Method for Traffic Flow Forecasting Using Multimodal Deep Learning**.
+*Shengdong Du, Tianrui Li, Xun Gong, Shi-Jinn Horng*. arXiv 2018. [[pdf](https://arxiv.org/abs/1803.02099)]
+1. **Bike Flow Prediction with Multi-Graph Convolutional Networks**.
+*Chai, Di, Leye Wang, and Qiang Yang*. SIGSPATIAL 2018. [[pdf](https://dl.acm.org/doi/abs/10.1145/3274895.3274896)]
+1. **Periodic-CRN: A Convolutional Recurrent Model for Crowd Density Prediction with Recurring Periodic Patterns**.
+*Zonoozi, A., Kim, J. J., Li, X. L., and Cong, G*. IJCAI 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0519.pdf)]
+1. **Exploiting Spatio-Temporal Correlations with Multiple 3D Convolutional Neural Networks for Citywide Vehicle Flow Prediction**.
+*Chen, C., Li, K., Teo, S. G., Chen, G., Zou, X., Yang, X., ... & Zeng, Z*. ICDM 2018. [[pdf](https://ieeexplore.ieee.org/abstract/document/8594916)]
+1. **A hybrid deep learning based traffic flow prediction method and its understanding**.
+*Wu, Y., Tan, H., Qin, L., Ran, B., & Jiang, Z*. Transportation Research Part C 2018. [[pdf](https://www.sciencedirect.com/science/article/pii/S0968090X18302651)]
+1. **Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference**.
+*Xianfeng Tang, Boqing Gong, Yanwei Yu, Huaxiu Yao, Yandong Li, Haiyong Xie, and Xiaoyu Wang*. WWW 2019. [[pdf](https://dl.acm.org/doi/abs/10.1145/3308558.3313621)]
+1. **Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction**.
+*Yao, H., Tang, X., Wei, H., Zheng, G. and Li, Z*. AAAI 2019. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/view/4511)]
+1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting**.
+*Guo, S., Lin, Y., Feng, N., Song, C. and Wan, H*. AAAI 2019. [[pdf](https://ojs.aaai.org//index.php/AAAI/article/view/3881)]
+1. **Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning**.
+*J. Zhang, Y. Zheng, J. Sun and D. Qi*. TKDE 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8606218)]
+1. **T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction**.
+*Zhao, L., Song, Y., Zhang, C., Liu, Y., Wang, P., Lin, T., ... & Li, H*. IEEE TITS 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8809901/)]
+1. **GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction**.
+*Fang, S., Qi Zhang, Gaofeng Meng, S. Xiang and C. Pan*. IJCAI 2019. [[pdf](https://pdfs.semanticscholar.org/424f/5a1d0b2bd8c78ccbf87e74d10a9d2bd77b23.pdf)]
+1. **Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting**.
+*Diao, Zulong, Xin Wang, Dafang Zhang, Yingru Liu, Kun Xie, and Shaoyao He*. AAAI 2019. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/view/3877)]
+1. **Predicting Station-Level Short-Term Passenger Flow in a Citywide Metro Network Using Spatiotemporal Graph Convolutional Neural Networks**.
+*Han, Y., Wang, S., Ren, Y., Wang, C., Gao, P., & Chen, G*. ISPRS 2019. [[pdf](https://www.mdpi.com/2220-9964/8/6/243)]
+1. **Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting**.
+*S. Guo, Y. Lin, S. Li, Z. Chen and H. Wan*. IEEE TITS 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8684259/)]
+1. **STCNN: A Spatio-Temporal Convolutional Neural Network for Long-Term Traffic Prediction**.
+*Z. He, C. Chow and J. Zhang*. IEEE MDM 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8788794/)]
+1. **DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis**.
+*Lin, Ziqian, Jie Feng, Ziyang Lu, Yong Li, and Depeng Jin*. AAAI 2019. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/view/3892)]
+1. **Spatial-Temporal Transformer Networks for Traffic Flow Forecasting**.
+*Xu, M., Dai, W., Liu, C., Gao, X., Lin, W., Qi, G. J., & Xiong, H*. arXiv 2020. [[pdf](https://arxiv.org/abs/2001.02908)]
+1. **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting**.
+*Song, Chao, Youfang Lin, Shengnan Guo, and Huaiyu Wan*. AAAI 2020. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/view/5438)]
+1. **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting**.
+*Chen, Weiqi, Ling Chen, Yu Xie, Wei Cao, Yusong Gao, and Xiaojie Feng*. AAAI 2020. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5758)]
+1. **Spatio-Temporal Graph Structure Learning for Traffic Forecasting**.
+*Zhang, Qi, Jianlong Chang, Gaofeng Meng, Shiming Xiang, and Chunhong Pan*. AAAI 2020. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5470)]
+1. **Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting**.
+*LEI BAI, Lina Yao, Can Li, Xianzhi Wang, and Can Wang*. NeurIPS 2020. [[pdf](https://proceedings.neurips.cc/paper/2020/hash/ce1aad92b939420fc17005e5461e6f48-Abstract.html)]
+1. **A Sequential Convolution Network for Population Flow Prediction with Explicitly Correlation Modelling**.
+*Jie Feng, Ziqian Lin, Tong Xia, Funing Sun, Diansheng Guo, and Yong Li*. IJCAI 2020. [[pdf](https://www.ijcai.org/Proceedings/2020/185)]
+1. **Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks**.
+*J. Sun, J. Zhang, Q. Li, X. Yi, Y. Liang and Y. Zheng*. TKDE 2020. [[pdf](https://ieeexplore.ieee.org/abstract/document/9139357/)]
+1. **Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network**.
+*Shi, H., Yao, Q., Guo, Q., Li, Y., Zhang, L., Ye, J., ... & Liu, Y*. ICDE 2020. [[pdf](https://ieeexplore.ieee.org/abstract/document/9101359/)]
 
 ## 2. Traffic Speed Prediction
 
@@ -160,4 +246,50 @@ Mainly Contributed and Maintained by Geyuan Wang.
 
 ## 9. Others
 
+1. **Interpreting traffic dynamics using ubiquitous urban data**.
+*Fei Wu, Hongjian Wang, and Zhenhui Li*. SIGSPACIAL 2016. [[pdf](https://dl.acm.org/doi/abs/10.1145/2996913.2996962)]
 
+1. **Time-series extreme event forecasting with neural networks at uber**. 
+*Laptev, N., Yosinski, J., Li, L. E., & Smyl, S*. ICML 2017. [[pdf](http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf)]
+
+1. **Spatio-Temporal Neural Networks for Space-Time Series Forecasting and Relations Discovery**. 
+*A. Ziat, E. Delasalles, L. Denoyer and P. Gallinari*. ICDM 2017. [[pdf](https://ieeexplore.ieee.org/abstract/document/8215543)]
+
+1. **Identifying Human Mobility via Trajectory Embeddings**. 
+*Gao, Q., Zhou, F., Zhang, K., Trajcevski, G., Luo, X., & Zhang, F*. IJCAI 2017. [[pdf](http://www.terpconnect.umd.edu/~kpzhang/paper/IJCAI2017.pdf)]
+
+1. **Modeling trajectories with recurrent neural networks**. 
+*Wu, H., Chen, Z., Sun, W., Zheng, B., & Wang, W*. IJCAI 2017. [[pdf](https://ink.library.smu.edu.sg/sis_research/3847/)]
+
+1. **DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting**. 
+*X. Cheng, R. Zhang, J. Zhou and W. Xu*. IJCNN 2018. [[pdf](https://ieeexplore.ieee.org/abstract/document/8489600/)]
+
+1. **Stepdeep: A novel spatial-temporal mobility event prediction framework based on deep neural network**.
+*Bilong Shen, Xiaodan Liang, Yufeng Ouyang, Miaofeng Liu, Weimin Zheng, and Kathleen M. Carley*. KDD 2018. [[pdf](https://dl.acm.org/doi/abs/10.1145/3219819.3219931)]
+
+1. **Exploiting spatiotemporal patterns for accurate air quality forecasting using deep learning**. 
+*Yijun Lin, Nikhit Mago, Yu Gao, Yaguang Li, Yao-Yi Chiang, Cyrus Shahabi, and José Luis Ambite*. SIGSPATIAL 2018. [[pdf](https://dl.acm.org/doi/abs/10.1145/3274895.3274907)]
+
+1. **Geoman: Multi-level attention networks for geo-sensory time series prediction**. 
+*Liang, Y., Ke, S., Zhang, J., Yi, X., & Zheng, Y*. IJCAI 2018. [[pdf](http://urban-computing.com/pdf/liang2018geoman.pdf)]
+
+1. **GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs**. 
+*Zhang, J., Shi, X., Xie, J., Ma, H., King, I., & Yeung, D. Y*.  2018. [[pdf](https://arxiv.org/abs/1803.07294)]
+
+1. **Deep Distributed Fusion Network for Air Quality Prediction**. 
+*iuwen Yi, Junbo Zhang, Zhaoyuan Wang, Tianrui Li, and Yu Zheng*. KDD 2018. [[pdf](https://dl.acm.org/doi/abs/10.1145/3219819.3219822)]
+
+1. **Spatio-Temporal Capsule-based Reinforcement Learning for Mobility-on-Demand Network Coordination**. 
+*Suining He and Kang G. Shin*. WWW 2019. [[pdf](https://dl.acm.org/doi/abs/10.1145/3308558.3313401)]
+
+1. **TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents**. 
+*Ma, Yuexin, Xinge Zhu, Sibo Zhang, Ruigang Yang*. AAAI 2019. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/view/4569)]
+
+1. **Understanding Urban Dynamics via Context-Aware Tensor Factorization with Neighboring Regularization**. 
+*J. Wang, J. Wu, Z. Wang, F. Gao and Z. Xiong*. TKDE 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8708929/)]
+
+1. **MetaLight: Value-Based Meta-Reinforcement Learning for Traffic Signal Control**. 
+*Zang, Xinshi, Huaxiu Yao, Guanjie Zheng, Nan Xu, Kai Xu, and Zhenhui Li*. AAAI 2020. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/view/5467)]
+
+1. **Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values**. 
+*Tang, Xianfeng, Huaxiu Yao, Yiwei Sun, Charu Aggarwal, Prasenjit Mitra, and Suhang Wang*. AAAI 2020. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6056)]
