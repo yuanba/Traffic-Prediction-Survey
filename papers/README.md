@@ -1,7 +1,5 @@
 # Must-read Papers on Deep Learning for Traffic Prediction (DLTP)
 
-Mainly Contributed and Maintained by Geyuan Wang. 
-
 <!-- Great thanks to other contributors ! (names are not listed in particular order) -->
 
 ### Contents
