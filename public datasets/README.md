@@ -1,6 +1,6 @@
 ## A summary of open source datasets
 
-We collect the most wildly used datasets in traffic prediction domain, and sort them according to the traffic prediction task. Besides giving task name and dataset name, we also provide sample reference (where the dataset is be used), open source link, and other useful information about this dataset.
+We collect the most wildly used datasets in traffic prediction domain, and sort them according to the traffic prediction task. Besides giving task name and dataset name, we also provide sample reference (where the dataset is be used), open source link, and other useful information about these datasets.
 
 |             Task             |  Dataset Name   |         Sample Reference         |                             Link                             | Time interval |      Prediction window       |               Duration               |                         Description                          |
 | :--------------------------: | :-------------: | :------------------------------: | :----------------------------------------------------------: | :-----------: | :--------------------------: | :----------------------------------: | :----------------------------------------------------------: |
